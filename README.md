@@ -1,2 +1,3 @@
-# Efi-Monterey-Ideapad-110-ISK
-EFI Monterey Lenovo Ideapad 110-ISK
+Lenovo ideapad 110-isk skylake intel gen 6
+Monterey 12.6.5
+
